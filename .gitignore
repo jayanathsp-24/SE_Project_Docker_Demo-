@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# frontend
+node_modules/
+.next/
+out/
+coverage/
+
+# backend
+bin/
+obj/
+*.user
+.vs/
+
+# misc
+.DS_Store
