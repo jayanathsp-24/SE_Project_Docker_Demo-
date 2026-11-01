@@ -15,3 +15,5 @@ obj/
 
 # misc
 .DS_Store
+*.tar
+*.zip
